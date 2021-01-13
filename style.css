@@ -1,0 +1,33 @@
+.heading {
+    font-size: 50px;
+    font-family: 'Hanalei Fill', cursive;
+    ;
+    width: 100%;
+    background: rgb(0, 212, 250);
+    margin: 0.05px;
+    box-shadow: 70px 70px 70px rgb(255, 217, 0);
+}
+
+.heading_div {
+    float: none;
+    background: white;
+    padding: 25px;
+    border-radius: 40px;
+    color: rgb(8, 243, 192);
+    box-shadow: 30px 5px 30px rgb(100, 243, 5);
+}
+
+.heading_div2 {
+    font-size: 20px;
+}
+
+.result_para_tag {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+canvas {
+    border: 5px solid rgb(248, 248, 248);
+    border-radius: 30px;
+    margin-top: 150px;
+}
